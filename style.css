@@ -1,39 +1,13 @@
-body {
-  color: fuchsia;
-  font-size: 25px;
+.title{
+    background-color: brown;
+    padding: 5px 5px;
+    color: white;
+    height: 15vh;
+    border: 5px solid blue
 }
-h1 {
-  color: green;
-}
-.main-header {
-  color: white;
-}
-#id {
-  color: brown;
-}
-.title {
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
-.text {
-  text-align: center;
-}
-.head {
-  text-align: center;
-  margin-top: 50px;
-  border: 3px solid red;
-  width: 50vw;
-}
-
-.background {
-  background-image: url(img/Texas\ Longhorns.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  color: white;
-  height: 100vh;
-}
-span {
-  font-weight: bold;
+.background{
+    background-image: url(img/Texas\ Longhorns.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white
 }
