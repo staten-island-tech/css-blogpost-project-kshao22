@@ -1,13 +1,54 @@
-.title{
-    background-color: brown;
-    padding: 5px 5px;
-    color: white;
-    height: 15vh;
-    border: 5px solid blue
+.title {
+  background-color: brown;
+  padding: 5px 5px;
+  color: white;
+  height: 15vh;
+  border: 5px solid blue;
+  font-size: x-large;
 }
-.background{
-    background-image: url(img/Texas\ Longhorns.jpg);
-    background-position: center;
-    background-size: cover;
-    color: white
+.background {
+  background-image: url(img/Texas\ Longhorns.jpg);
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-family: "Raleway", sans-serif;
+}
+.span {
+  font-size: larger;
+  color: lightcoral;
+}
+.body {
+  background-image: url(img/Texas\ Dirtroad.jpg);
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-family: "Raleway", sans-serif;
+}
+.block1 {
+  background-image: url(img/Texas\ Hills\ &\ Mountains.jpg);
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-family: "Raleway", sans-serif;
+}
+.block2 {
+  background-image: url(img/Texas\ -\ Mustang\ Island.jpg);
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-family: "Raleway", sans-serif;
+}
+.block3 {
+  background-image: url(img/Texas\ City.jpg);
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-family: "Raleway", sans-serif;
+}
+.block4 {
+  background-image: url(img/Texas\ Capitol.jpg);
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-family: "Raleway", sans-serif;
 }
