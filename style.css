@@ -6,7 +6,7 @@
   border: 5px solid blue;
   font-size: x-large;
 }
-.background {
+.blocklonghorn {
   background-image: url(img/Texas\ Longhorns.jpg);
   background-position: center;
   background-size: cover;
@@ -17,35 +17,36 @@
   font-size: larger;
   color: lightcoral;
 }
-.body {
+.blockdirtroad {
   background-image: url(img/Texas\ Dirtroad.jpg);
   background-position: center;
   background-size: cover;
+  margin-top;: 40px 600px 0px 600px;
   color: white;
   font-family: "Raleway", sans-serif;
 }
-.block1 {
+.blockhills {
   background-image: url(img/Texas\ Hills\ &\ Mountains.jpg);
   background-position: center;
   background-size: cover;
   color: white;
   font-family: "Raleway", sans-serif;
 }
-.block2 {
+.blockbeach {
   background-image: url(img/Texas\ -\ Mustang\ Island.jpg);
   background-position: center;
   background-size: cover;
   color: white;
   font-family: "Raleway", sans-serif;
 }
-.block3 {
+.blockcity {
   background-image: url(img/Texas\ City.jpg);
   background-position: center;
   background-size: cover;
   color: white;
   font-family: "Raleway", sans-serif;
 }
-.block4 {
+.blockcapitol {
   background-image: url(img/Texas\ Capitol.jpg);
   background-position: center;
   background-size: cover;
